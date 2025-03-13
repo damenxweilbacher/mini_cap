@@ -1,0 +1,5 @@
+* MINI CAPSTONE FOR WEEK 8
+idea - employee database
+* stores name, dob, employee id, number
+* personal information only accesible by admin
+* general information accesible by any user
